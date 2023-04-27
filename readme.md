@@ -1,5 +1,9 @@
 # Three.js Journey
 
+## DEPLOY
+
+https://particle-systems-three-qbmc.vercel.app/
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
